@@ -1,0 +1,2 @@
+.IPPcode19
+MOVE TF@&ahoj string@ab c #Mezi a b je specialni unicode mezera => chyba
