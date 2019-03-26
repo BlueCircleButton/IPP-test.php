@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <program language="IPPcode19">
   <instruction order="1" opcode="PUSHS">
-    <arg1 type="bool">false</arg1>
+    <arg1 type="nil">nil</arg1>
   </instruction>
   <instruction order="2" opcode="PUSHS">
     <arg1 type="string">cau</arg1>
