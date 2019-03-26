@@ -11,13 +11,13 @@
   </instruction>
   <instruction order="4" opcode="MOVE">
     <arg1 type="var">GF@ahoj</arg1>
-    <arg2 type="int">2</arg2>
+    <arg2 type="nil">nil</arg2>
   </instruction>
   <instruction order="5" opcode="MOVE">
     <arg1 type="var">GF@cau</arg1>
-    <arg2 type="string">cau</arg2>
+    <arg2 type="bool">false</arg2>
   </instruction>
-  <instruction order="6" opcode="JUMPIFNEQ">
+  <instruction order="6" opcode="JUMPIFEQ">
     <arg1 type="label">noice</arg1>
     <arg2 type="var">GF@ahoj</arg2>
     <arg3 type="var">GF@cau</arg3>

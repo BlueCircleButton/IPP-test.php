@@ -11,7 +11,7 @@
   </instruction>
   <instruction order="4" opcode="MOVE">
     <arg1 type="var">GF@ahoj</arg1>
-    <arg2 type="int">2</arg2>
+    <arg2 type="nil">nil</arg2>
   </instruction>
   <instruction order="5" opcode="MOVE">
     <arg1 type="var">GF@cau</arg1>
